@@ -1,0 +1,6 @@
+{
+  "bot_token": "PUT BOT TOKEN HERE",
+  "messages": [
+    "Put message here",
+  ]
+}
