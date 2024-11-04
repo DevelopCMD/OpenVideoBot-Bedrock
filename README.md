@@ -6,7 +6,7 @@
 
 ## What is OpenVideoBot Bedrock?
 
-OpenVideoBot Bedrock is a version of OVB written from the ground up.
+OpenVideoBot Bedrock is an attempt to write OVB from the ground up.
 
 It is intended to be more stable than the old OVB.
 
