@@ -1,6 +1,6 @@
 <p align=center>
-  <a href="https://reactos.org/">
-    <img alt="ReactOS" src="https://github.com/user-attachments/assets/edee61a9-51ca-483d-8d5a-2764143e4c84">
+  <a href="">
+    <img alt="OVB Bedrock" src="https://github.com/user-attachments/assets/edee61a9-51ca-483d-8d5a-2764143e4c84">
   </a>
 </p>
 
